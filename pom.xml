@@ -8,11 +8,11 @@
         <version>2.5.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.tencent</groupId>
-    <artifactId>springboot-wxcloudrun</artifactId>
+    <groupId>com.start</groupId>
+    <artifactId>start-home</artifactId>
     <version>1.0</version>
-    <name>springboot-wxcloudrun</name>
-    <description>Demo project for Spring Boot</description>
+    <name>start-home</name>
+    <description>home of the start</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
